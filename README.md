@@ -258,11 +258,11 @@ Enter choice: 1
 
 === Create Account ===
 
-Enter Name: Atharva
+Enter Name: ABC
 
-Enter Email: atharva@example.com
+Enter Email: abc@example.com
 
-Enter Mobile (10 digits): 9876543210
+Enter Mobile (10 digits): 9898989898
 
 Enter Bank Name: ABC Bank
 
@@ -272,7 +272,7 @@ Set 4-digit PIN: ****
 
 Account created!
 
-Your Account Number: 103456789012
+Your Account Number: 103544628951
 
 ---------------------------------------
 
@@ -280,7 +280,7 @@ Your Account Number: 103456789012
 
 Main Menu > 2. Login
 
-Enter Account Number: 103456789012
+Enter Account Number: 1052354012
 
 Enter PIN: ****
 
